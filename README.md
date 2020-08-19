@@ -2,7 +2,7 @@
 
 The CyberSource PHP client provides convenient access to the [CyberSource REST API](https://developer.cybersource.com/api/reference/api-reference.html) from your PHP application.
 
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) [![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version](https://poser.pugx.org/soberanes/cybersource-rest-client-php/v)](//packagist.org/packages/soberanes/cybersource-rest-client-php) [![Total Downloads](https://poser.pugx.org/soberanes/cybersource-rest-client-php/downloads)](//packagist.org/packages/soberanes/cybersource-rest-client-php) [![Latest Unstable Version](https://poser.pugx.org/soberanes/cybersource-rest-client-php/v/unstable)](//packagist.org/packages/soberanes/cybersource-rest-client-php) [![License](https://poser.pugx.org/soberanes/cybersource-rest-client-php/license)](//packagist.org/packages/soberanes/cybersource-rest-client-php)
 
 ## Requirements
 * PHP 7.1.3+
